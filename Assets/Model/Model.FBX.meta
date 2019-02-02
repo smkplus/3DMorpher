@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 6e3c6e2c2e7c95a44bba4ceca5efbe3f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cow2:polySurface1
+    100002: cow2:polySurface2
+    100004: cow2:Sphere001
+    100006: cow2:transform1
+    100008: cow2:transform2
+    100010: cow2:transform3
+    100012: cow2:transform4
+    100014: "cow2:\u5BF9\u8C61001"
+    100016: "cow2:\u5BF9\u8C61002"
+    100018: cowjoins:joint1
+    100020: cowjoins:joint10
+    100022: cowjoins:joint11
+    100024: cowjoins:joint12
+    100026: cowjoins:joint13
+    100028: cowjoins:joint14
+    100030: cowjoins:joint15
+    100032: cowjoins:joint16
+    100034: cowjoins:joint17
+    100036: cowjoins:joint18
+    100038: cowjoins:joint19
+    100040: cowjoins:joint2
+    100042: cowjoins:joint20
+    100044: cowjoins:joint21
+    100046: cowjoins:joint22
+    100048: cowjoins:joint23
+    100050: cowjoins:joint24
+    100052: cowjoins:joint3
+    100054: cowjoins:joint4
+    100056: cowjoins:joint5
+    100058: cowjoins:joint6
+    100060: cowjoins:joint7
+    100062: cowjoins:joint8
+    100064: cowjoins:joint9
+    100066: //RootNode
+    100068: group1
+    100070: ikHandle1
+    100072: ikHandle2
+    100074: joint1
+    100076: joint2
+    100078: joint3
+    100080: joint4
+    100082: joint5
+    100084: joint6
+    100086: nurbsCircle1
+    100088: nurbsCircle10
+    100090: nurbsCircle11
+    100092: nurbsCircle12
+    100094: nurbsCircle13
+    100096: nurbsCircle14
+    100098: nurbsCircle15
+    100100: nurbsCircle2
+    100102: nurbsCircle4
+    100104: nurbsCircle5
+    100106: nurbsCircle6
+    100108: nurbsCircle7
+    100110: nurbsCircle9
+    100112: pSphere1
+    100114: yanpi:pSphere1
+    400000: cow2:polySurface1
+    400002: cow2:polySurface2
+    400004: cow2:Sphere001
+    400006: cow2:transform1
+    400008: cow2:transform2
+    400010: cow2:transform3
+    400012: cow2:transform4
+    400014: "cow2:\u5BF9\u8C61001"
+    400016: "cow2:\u5BF9\u8C61002"
+    400018: cowjoins:joint1
+    400020: cowjoins:joint10
+    400022: cowjoins:joint11
+    400024: cowjoins:joint12
+    400026: cowjoins:joint13
+    400028: cowjoins:joint14
+    400030: cowjoins:joint15
+    400032: cowjoins:joint16
+    400034: cowjoins:joint17
+    400036: cowjoins:joint18
+    400038: cowjoins:joint19
+    400040: cowjoins:joint2
+    400042: cowjoins:joint20
+    400044: cowjoins:joint21
+    400046: cowjoins:joint22
+    400048: cowjoins:joint23
+    400050: cowjoins:joint24
+    400052: cowjoins:joint3
+    400054: cowjoins:joint4
+    400056: cowjoins:joint5
+    400058: cowjoins:joint6
+    400060: cowjoins:joint7
+    400062: cowjoins:joint8
+    400064: cowjoins:joint9
+    400066: //RootNode
+    400068: group1
+    400070: ikHandle1
+    400072: ikHandle2
+    400074: joint1
+    400076: joint2
+    400078: joint3
+    400080: joint4
+    400082: joint5
+    400084: joint6
+    400086: nurbsCircle1
+    400088: nurbsCircle10
+    400090: nurbsCircle11
+    400092: nurbsCircle12
+    400094: nurbsCircle13
+    400096: nurbsCircle14
+    400098: nurbsCircle15
+    400100: nurbsCircle2
+    400102: nurbsCircle4
+    400104: nurbsCircle5
+    400106: nurbsCircle6
+    400108: nurbsCircle7
+    400110: nurbsCircle9
+    400112: pSphere1
+    400114: yanpi:pSphere1
+    2100000: lambert1
+    2100002: cow2_07 - Default
+    2300000: pSphere1
+    2300002: yanpi:pSphere1
+    3300000: pSphere1
+    3300002: yanpi:pSphere1
+    4300000: pSphere1
+    4300002: yanpi:pSphere1
+    4300004: "cow2:\u5BF9\u8C61002"
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: "cow2:\u5BF9\u8C61002"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
